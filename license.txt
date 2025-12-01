@@ -1,0 +1,9 @@
+TechBee website – WordPress-based deployment
+
+Copyright 2011–2025 by the original WordPress contributors.
+Additional customization, configuration, and deployment for this website have been carried out by <Seyam Chowdhury>, operating as TechBee, on December 1, 2025.
+
+This website is built on WordPress and is licensed under the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or (at your option) any later version.
+All custom changes and additions made by <Seyam Chowdhury> for TechBee are provided under the same GNU General Public License terms and are distributed without any warranty, to the extent permitted by applicable law.​
+
+The complete GNU General Public License, version 2, is included with this installation and can also be found at: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html.​
